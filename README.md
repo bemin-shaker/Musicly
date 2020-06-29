@@ -8,7 +8,7 @@ This web application was built with JavaScript and React to allow users to searc
 
 Markup : * Install Node on your machine. Info can be found here: https://nodejs.org/en/
 Markup : * Clone this repository to your machine
-Markup : * cd directory-you-cloned-to/musicly
-Markup : * Markup :  `npm install` to install all dependencies
-Markup : * npm start to run the application on http://localhost:3000
+Markup : * `cd directory-you-cloned-to/musicly`
+Markup : * `npm install` to install all dependencies
+Markup : * `npm start` to run the application on http://localhost:3000
 
